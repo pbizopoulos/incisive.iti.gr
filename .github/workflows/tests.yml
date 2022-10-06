@@ -9,6 +9,3 @@ jobs:
       - name: Check code
         run: |
           make check
-      - name: Test binary
-        run: |
-          make
