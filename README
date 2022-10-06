@@ -1,0 +1,13 @@
+# INCISIVE
+
+# Requirements
+POSIX mandatory utilities
+Make
+npm
+ 
+# Preparation
+git clone https://github.com/pbizopoulos/incisive
+cd incisive/
+
+# Usage
+make help			# Show help for html.
