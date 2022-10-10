@@ -3,7 +3,7 @@
 # Requirements
 POSIX mandatory utilities
 Make
-npm
+Docker
  
 # Preparation
 git clone https://github.com/pbizopoulos/incisive
