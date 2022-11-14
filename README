@@ -6,9 +6,7 @@ POSIX mandatory utilities
 Make
 Docker
  
-# Preparation
+# Build
 git clone https://github.com/pbizopoulos/incisive
 cd incisive/
-
-# Usage
-make help			# Show help for html.
+make DEBUG=0
