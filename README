@@ -6,7 +6,7 @@ POSIX Utilities
 Git
 Docker
  
-# Check and build code
+# Download, check and build
 git clone https://github.com/pbizopoulos/incisive
 cd incisive/
 make check all
