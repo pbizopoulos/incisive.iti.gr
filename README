@@ -9,4 +9,4 @@ Docker
 # Download, check and build
 git clone https://github.com/pbizopoulos/incisive
 cd incisive/
-cd docs/ && make mostlyclean clean check all && cd ..
+cd docs/ && make clean check all && cd ..
