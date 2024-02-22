@@ -1,0 +1,18 @@
+# incisive.iti.gr
+https://pbizopoulos.github.io/incisive.iti.gr
+
+# Requirements
+POSIX Shell & Utilities
+Git
+Docker
+
+# Download
+git clone https://github.com/pbizopoulos/incisive.iti.gr $HOME/github.com/pbizopoulos/incisive.iti.gr
+cd $HOME/github.com/pbizopoulos/incisive.iti.gr/
+
+# Development
+cd docs/ && make clean check all && cd ..
+
+# Staging
+cd docs/ && make STAGING=1
+
